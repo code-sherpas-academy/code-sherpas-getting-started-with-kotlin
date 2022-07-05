@@ -1,4 +1,4 @@
-# Getting Started with Kotlin 👩‍💻 👨‍💻
+# Getting Started with Kotlin - Part 1 👩‍💻 👨‍💻
 
 In this repo you'll find exercises that will help you get started with kotlin in no time.
 
