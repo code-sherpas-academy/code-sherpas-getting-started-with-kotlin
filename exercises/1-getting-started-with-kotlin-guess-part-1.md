@@ -6,7 +6,7 @@
 
 ###### Step 1: Recommendation. **If possible, print this document and complete the following exercise by hand. ✍️**
 
-###### Step 1: Update the file, commit your changes and push your code to the Github Classroom repository**
+###### Step 2: Update the file, commit your changes and push your code to the Github Classroom repository**
 
 We know we’ve not taught you any Kotlin code yet, but see if you can guess ❓ what each line of code is doing. We’ve completed the first one to get you started:
 
